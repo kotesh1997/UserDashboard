@@ -1,0 +1,10 @@
+.main-container {
+  margin: 50px 70px;
+  padding: 20px 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  gap: 10px;
+  border: 1px dashed white;
+  width: 80%;
+}
