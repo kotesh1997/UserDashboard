@@ -1,7 +1,7 @@
 import './App.css'
 import UserDashboard from './pages/user-dashboard'
 
-function App() {
+const App = () => {
 
   return (
     <div>
